@@ -37,7 +37,7 @@ type Websites struct {
 }
 
 func main() {
-loop:
+    loop:
 	a := "author"
 	g := "gamer"
 	// ################################
@@ -61,7 +61,7 @@ loop:
 
 	// ################################
 
-finish:
+    finish:
 	// Open our jsonFile
 	jsonFile, err := os.Open("users.json")
 	// if we os.Open returns an error then handle it
