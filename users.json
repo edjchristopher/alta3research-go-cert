@@ -1,0 +1,49 @@
+{
+  "users": [
+    {
+      "name": "Elliot White",
+      "type": "Author",
+      "age": 32,
+      "websites": {
+        "LinkedIn": "https://LinkedIn.com/elliotwhite",
+        "Favorite": "https://www.elliotwhite.com"
+      }
+    },
+    {
+      "name": "John Fraser",
+      "type": "Gamer",
+      "age": 17,
+      "websites": {
+        "LinkedIn": "https://LinkedIn.com/johnfraser",
+        "Favorite": "https://www.johnfraser.com"
+      }
+    },
+    {
+        "name": "Tom Thumb",
+        "type": "Gamer",
+        "age": 15,
+        "websites": {
+          "LinkedIn": "https://LinkedIn.com/tomthumb",
+          "Favorite": "https://www.tomthumb.com"
+        }
+      },
+      {
+        "name": "John Doe",
+        "type": "Gamer",
+        "age": 17,
+        "websites": {
+          "LinkedIn": "https://LinkedIn.com/johndoe",
+          "Favorite": "https://www.johndoe.com"
+        }
+      },
+      {
+        "name": "Arthur Author",
+        "type": "Author",
+        "age": 60,
+        "websites": {
+          "LinkedIn": "https://LinkedIn.com/arthurauthor",
+          "Favorite": "https://www.arthurauthor.com"
+        }
+      }
+  ]
+}

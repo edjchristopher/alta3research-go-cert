@@ -1,0 +1,3 @@
+# alta3research-go-cert
+
+A very simple Go program that presents a question and takes input. If you type in the incorrect input it will ask you to try again. When you type in the type of "user" you would like to see out of the fake training class, either author or gamer, it program will read in the users.json file, format it with a struct and display the type of user and the details avaialble for that user.
